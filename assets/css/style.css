@@ -528,13 +528,13 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #1bb1dc;
+  background: #0470F5;
   color: #fff;
 }
 
 #hero .intro-info .btn-get-started:hover,
 #hero .intro-info .btn-services:hover {
-  background: #0a98c0;
+  background: #0990b6;
 }
 
 /*--------------------------------------------------------------
